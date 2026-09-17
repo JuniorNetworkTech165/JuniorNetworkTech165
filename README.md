@@ -4,7 +4,7 @@
 - **Cisco Packet Tracer**
 
 ## Network topology.
-![Lab 1 topology](Lab1-topology.png)
+![Lab 1 topology](https://github.com/JuniorNetworkTech165/1st-Lab-2-PC-LAN/blob/main/Lab1-topology.png?raw=true)
 
 ## IP Configuration.
 - **PC0:** `192.168.1.10/24`
@@ -27,7 +27,7 @@ This lab demonstrates a basic Local Area Network (LAN) layout connecting four Vi
 - **Generic Ethernet switch**
 
 ## Network topology.
-![4-PC LAN Topology](Lab2-topology.png)
+![4-PC LAN Topology](https://github.com/JuniorNetworkTech165/Basic-4-PC-LAN/raw/main/Lab2-topology.png)
 
 ## IP Addressing Table.
 | Device | Interface | IP Address       | Subnet Mask   | 
