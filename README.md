@@ -24,7 +24,7 @@ This lab demonstrates a basic Local Area Network (LAN) layout connecting four Vi
 ## Tools used.
 - **GNS3 (Graphical Network Simulator-3)**
 - **VPCS (Virtual PC Simulator)**
-- **Generic Ethernet switch**
+- **Generic Ethernet switch.**
 
 ## Network topology.
 ![4-PC LAN Topology](https://github.com/JuniorNetworkTech165/Basic-4-PC-LAN/raw/main/Lab2-topology.png)
