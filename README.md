@@ -105,7 +105,7 @@ This lab demonstrate how to identify, troubleshoot, and fix IP addressing miscon
 
 ---
 
-# Lab 4: Custon 5-PC LAN.
+# Lab 4: Custom 5-PC LAN.
 
 ## Overview.
 This lab project demonstrates a 5-PC Local Area Network (LAN) consisting of five end-user computers connected to a single central switch.
