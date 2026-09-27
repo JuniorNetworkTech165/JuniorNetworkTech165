@@ -118,7 +118,7 @@ This lab project demonstrates a 5-PC Local Area Network (LAN) consisting of five
 
 ## Network topology.
 <img width="949" height="409" alt="Network-topology" src="https://github.com/user-attachments/assets/bcdec023-ab8e-4d79-b058-257aa5515ab1" />
-)
+
 
 ## IP Address Table.
 
