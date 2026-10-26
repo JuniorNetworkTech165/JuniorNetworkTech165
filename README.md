@@ -66,7 +66,7 @@ This lab demonstrate how to identify, troubleshoot, and fix IP addressing miscon
 |   **PC3**  |  ethernet0  |   `192.168.30.12` |  `255.255.255.0` |
 
 ### Network topology.
-<img width="949" height="409" alt="Network-topology" src="https://github.com/user-attachments/assets/585d1b71-938e-46b0-b837-812eedcbf425" />
+<img width="943" height="544" alt="Network topology" src="https://github.com/user-attachments/assets/20020bd9-aada-4577-a512-dda7039c02de" />
 
 ---
 
