@@ -27,7 +27,7 @@ This lab demonstrates a basic Local Area Network (LAN) layout connecting four Vi
 - **Generic Ethernet switch.**
 
 ## Network topology.
-![4-PC LAN Topology](Lab2-topology.png)
+<img width="926" height="561" alt="Lab2-topology" src="https://github.com/user-attachments/assets/bdba781a-94ce-4b52-8a0c-031e1f13ec07" />
 
 ## IP Addressing Table.
 | Device | Interface | IP Address       | Subnet Mask   | 
