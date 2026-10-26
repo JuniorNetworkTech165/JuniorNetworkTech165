@@ -2,7 +2,7 @@
 
   <h1>👨‍💻 BOITUMELO VILAKAZI 💻</h1>
   
-  <h3>🌐 NETWORKING 🌐</h3>
+  <h3>🌐 NETWORKING(N+) 🌐</h3>
 
   <p><b>Learning · Building · Troubleshooting</b></p>
 
