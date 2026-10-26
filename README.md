@@ -7,18 +7,18 @@
   <p><b>Learning · Building · Troubleshooting</b></p>
 
   <p>
-    <a href="https://github.com/JuniorNetworkTech165">
-      <img src="https://img.shields.io/badge/PORTFOLIO-JUNIORNETWORKTECH165-00FF66?style=for-the-badge&logo=cisco&logoColor=white" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/JuniorNetworkTech165">
-      <img src="https://img.shields.io/badge/FIELD-NETWORKING-blue?style=for-the-badge&logo=gns3&logoColor=white" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/JuniorNetworkTech165">
-      <img src="https://img.shields.io/badge/GITHUB-@JuniorNetworkTech165-333333?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
+    <!-- Combined Portfolio & Alias Badge on Top -->
+    <a href="https://github.com/JuniorNetworkTech165">
+      <img src="https://img.shields.io/badge/PORTFOLIO-JUNIORNETWORKTECH165-00FF66?style=for-the-badge&logo=cisco&logoColor=white" />
+    </a>
+  </p>
+
+  <p>
+    <!-- Networking Badge Underneath Alone -->
+    <a href="https://github.com/JuniorNetworkTech165">
+      <img src="https://img.shields.io/badge/NETWORKING-blue?style=for-the-badge&logo=gns3&logoColor=white" />
+    </a>
+  </p>
 
 </div>
 
