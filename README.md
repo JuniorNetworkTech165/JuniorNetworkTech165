@@ -1,11 +1,8 @@
-
 <div align="center">
-  <h1>👨‍💻 BOITUMELO VILAKAZI 👨‍💻</h1>
-  <h2>🌐 NETWORKING 🌐</h2>
-  <p>Learning • Building • Troubleshooting</p>
-</div>
 
-<div align="center">
+  <h1>👨‍💻 BOITUMELO VILAKAZI 💻</h1>
+  
+  <h3>🌐 NETWORKING 🌐</h3>
 
   <p>Learning · Building · Troubleshooting</p>
 
@@ -27,6 +24,8 @@
   </p>
 
 </div>
+
+---
 
 # Lab 1: Basic 2-PC LAN.
 
