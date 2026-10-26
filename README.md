@@ -4,7 +4,7 @@
 - **Cisco Packet Tracer**
 
 ## Network topology.
-https://github.com/JuniorNetworkTech165/Basic-2-PC-LAN/blob/main/Lab1-topology.png?raw=true
+<img width="946" height="285" alt="Lab1-topology" src="https://github.com/user-attachments/assets/59953406-ba5e-43e7-82ec-af5658f98aa0" />
 
 ## IP Configuration.
 - **PC0:** `192.168.1.10/24`
