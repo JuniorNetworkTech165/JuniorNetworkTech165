@@ -6,6 +6,7 @@
 
   <p><b>Learning · Building · Troubleshooting</b></p>
 
+</div>
 ---
 
 # Lab 1: Basic 2-PC LAN.
