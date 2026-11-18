@@ -7,7 +7,7 @@
   <p>
     <img src="https://img.shields.io/badge/LEARNING-grey?style=for-the-badge&logoColor=white" alt="Learning" />
     <img src="https://img.shields.io/badge/BUILDING-00ff66?style=for-the-badge&logoColor=black" alt="Building" />
-    <img src="https://img.shields.io/badge/TROUBLESHOOTING-grey?style=for-the-badge&logoColor=white" alt="Troubleshooting" />
+    <img src="https://img.shields.io/badge/TROUBLESHOOTING-grey?style=for-the-badge&logoColor=purple" alt="Troubleshooting" />
   </p>
 
 </div>
