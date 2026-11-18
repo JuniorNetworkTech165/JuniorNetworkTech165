@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/JuniorNetworkTech165/JuniorNetworkTech165/blob/main/Gemini_Generated_Image_fu71cmfu71cmfu71.jpg?raw=true" alt="Scroll Down" width="100%" />
+  <img src="https://github.com/JuniorNetworkTech165/JuniorNetworkTech165/blob/main/scroll-down-live.gif?raw=true" alt="Scroll Down" width="100%" />
 </p>
 
 <br>
