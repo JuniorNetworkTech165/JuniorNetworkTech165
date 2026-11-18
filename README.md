@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/792c3997-f947-48b1-ae8d-95513c1332e3" src="Scroll-Down-live.gif" width="75%" />
+  <img src="./scroll-down-live.gif" alt="Scroll Down" width="100%" />
 </p>
 
 <br>
