@@ -8,6 +8,14 @@
 
 </div>
 
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/792c3997-f947-48b1-ae8d-95513c1332e3" alt="Scroll Down" width="75%" />
+</p>
+
+<br>
+
 ---
 
 # Lab 1: Basic 2-PC LAN.
@@ -62,8 +70,8 @@ This lab demonstrates a basic Local Area Network (LAN) layout connecting four Vi
 This lab demonstrate how to identify, troubleshoot, and fix IP addressing misconfiguration in a Local Area Network (LAN).
 
 ## Tools & Environment.
-* **Emulation Software: GNS3**
-* **Device: 3x VPCS, 1x Ethernet switch** 
+- **Emulation Software: GNS3**
+- **Device: 3x VPCS, 1x Ethernet switch** 
 
 ---
 
@@ -84,11 +92,11 @@ This lab demonstrate how to identify, troubleshoot, and fix IP addressing miscon
 
 ## 2. Problem Statement.
 
-* **PC1**  and **PC2** are configured on the same `192.168.20.0/24` network.
+- **PC1**  and **PC2** are configured on the same `192.168.20.0/24` network.
 
-* **PC3** was deliberately misconfigured on the `192.168.30.0/24` network.
+- **PC3** was deliberately misconfigured on the `192.168.30.0/24` network.
 
-* **Result:** Ping requests sent from **PC1** or **PC2** to **PC3** failed, because **PC3** did not belong to the same `192.168.20.0/24` network.
+- **Result:** Ping requests sent from **PC1** or **PC2** to **PC3** failed, because **PC3** did not belong to the same `192.168.20.0/24` network.
 
 ---
 
@@ -111,8 +119,8 @@ This lab demonstrate how to identify, troubleshoot, and fix IP addressing miscon
 
 ## 4. Testing and verification.
 
-* I ran the command `ping 192.168.20.12` from both **PC1** and **PC2**.
-* **Results:** The ping test was successful! All ping packets were received with zero packet loss, confirming that all computers can talk to each other.
+- I ran the command `ping 192.168.20.12` from both **PC1** and **PC2**.
+- **Results:** The ping test was successful! All ping packets were received with zero packet loss, confirming that all computers can talk to each other.
 
 ---
 
