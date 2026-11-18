@@ -16,6 +16,12 @@
 
 <br>
 
+<p align="center">
+  <img src="https://github.com/JuniorNetworkTech165/JuniorNetworkTech165/blob/main/Networking.gif?raw=true" alt="Networking Animation" width="100%" />
+</p>
+
+<br>
+
 ---
 
 # Lab 1: Basic 2-PC LAN.
