@@ -4,7 +4,11 @@
   
   <h3>🌐 NETWORKING (N+) 🌐</h3>
 
-  <p><b>Learning · Building · Troubleshooting</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/LEARNING-grey?style=for-the-badge&logoColor=white" alt="Learning" />
+    <img src="https://img.shields.io/badge/BUILDING-00ff66?style=for-the-badge&logoColor=black" alt="Building" />
+    <img src="https://img.shields.io/badge/TROUBLESHOOTING-grey?style=for-the-badge&logoColor=white" alt="Troubleshooting" />
+  </p>
 
 </div>
 
